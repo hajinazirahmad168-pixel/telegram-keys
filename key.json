@@ -1,7 +1,7 @@
 {
   "keys": [
     {
-      "key": "REHAN",
+      "key": "TPM-REHAN-001",
       "status": "active",
       "expiry": "2026-12-31",
       "max_devices": 5,
@@ -9,7 +9,7 @@
       "created_at": "2024-01-01"
     },
     {
-      "key": "AMMAR",
+      "key": "TPM-AMMAR-002",
       "status": "active",
       "expiry": "2025-06-30",
       "max_devices": 3,
@@ -17,7 +17,7 @@
       "created_at": "2024-01-15"
     },
     {
-      "key": "MYKEY",
+      "key": "TPM-MYKEY-003",
       "status": "blocked",
       "expiry": "2025-12-31",
       "max_devices": 1,
